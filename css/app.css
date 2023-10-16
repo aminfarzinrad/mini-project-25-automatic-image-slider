@@ -59,7 +59,10 @@ body{
     visibility: hidden;
     transition: all 0.3s ease;
 }
-.title_content{}
+.title_content{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
 .text_content{}
 @keyframes animation {
     0%{
